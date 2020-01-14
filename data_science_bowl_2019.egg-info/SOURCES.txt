@@ -1,0 +1,12 @@
+README.md
+setup.py
+data_science_bowl_2019/__init__.py
+data_science_bowl_2019/_nbdev.py
+data_science_bowl_2019/lda.py
+data_science_bowl_2019/wide_and_deep.py
+data_science_bowl_2019.egg-info/PKG-INFO
+data_science_bowl_2019.egg-info/SOURCES.txt
+data_science_bowl_2019.egg-info/dependency_links.txt
+data_science_bowl_2019.egg-info/entry_points.txt
+data_science_bowl_2019.egg-info/not-zip-safe
+data_science_bowl_2019.egg-info/top_level.txt
