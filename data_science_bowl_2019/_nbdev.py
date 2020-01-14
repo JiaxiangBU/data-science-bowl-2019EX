@@ -8,6 +8,6 @@ index = {"parse": "lda.ipynb",
 
 modules = ["lda.py"]
 
-git_url = "https://github.com/fastai/data-science-bowl-2019/tree/master/"
+git_url = "https://github.com/fastai/data_science_bowl_2019/tree/master/"
 
 def custom_doc_links(name): return None

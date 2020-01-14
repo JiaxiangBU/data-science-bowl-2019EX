@@ -1,0 +1,18 @@
+---
+output: github_document
+bibliography: refs/add.bib
+---
+
+I join this competition [data-science-bowl-2019], which ends on January 15, 2020. For the data feature, I do some work on the series features, using word2vec, LDA and node2vec. 
+
+1. [wide and deep]
+1. [node2vec]
+1. [LDA]
+
+The baseline feature engineering I forked from @Massoud_Hosseinali2019. However, it helps me focus on series features.
+Also, I use LTSM model to elaborate series features, I forked from @Grecnik2019.
+
+[data-science-bowl-2019]: https://www.kaggle.com/c/data-science-bowl-2019
+[wide and deep]: https://github.com/JiaxiangBU/data-science-bowl-2019EX/blob/master/wide_and_deep.ipynb
+[node2vec]: https://github.com/JiaxiangBU/data-science-bowl-2019EX/blob/master/node2vec.ipynb
+[LDA]: https://github.com/JiaxiangBU/data-science-bowl-2019EX/blob/master/lda.ipynb
